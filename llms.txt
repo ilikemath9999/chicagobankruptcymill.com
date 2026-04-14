@@ -5,11 +5,12 @@
 chicagobankruptcymill.com is part of the Open Bankruptcy Project (openbankruptcyproject.org), a 501(c)(3) nonprofit building free, open-source tools for bankruptcy court transparency.
 
 ## Key Pages
-- Chicago Bankruptcy Mill: Warning Signs and What the Court Data Shows: https://chicagobankruptcymill.com/
 - Chapter 13 Bankruptcy Mills in Chicago: Red Flags and What to Watch For: https://chicagobankruptcymill.com/chapter-13-chicago.html
 - Chapter 7 Bankruptcy in Chicago: Costs, Timeline and What to Know: https://chicagobankruptcymill.com/chapter-7-chicago.html
 - How to Check Your Chicago Bankruptcy Attorney's Track Record: https://chicagobankruptcymill.com/how-to-check.html
+- Chicago Bankruptcy Mill: Warning Signs and What the Court Data Shows: https://chicagobankruptcymill.com/
 - 5 Warning Signs of a Bankruptcy Mill in Chicago: https://chicagobankruptcymill.com/warning-signs.html
+- Privacy Policy: https://chicagobankruptcymill.com/privacy.html
 
 ## Contact
 - Website: https://openbankruptcyproject.org
